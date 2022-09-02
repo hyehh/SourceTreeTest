@@ -1,4 +1,4 @@
 # SourceTreeTest
 
-# 안녕 아녕ddd
+# 안녕ddd
 
